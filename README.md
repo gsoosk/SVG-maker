@@ -2,7 +2,7 @@ BobRoss svg maker bot!
 ===================
 
 
-Hey! I wrote a project that use some commands in command line an make a simple svg image file!
+Hey! I wrote a project that use some commands in command line to make a simple svg image file!
 
 
 ----------
